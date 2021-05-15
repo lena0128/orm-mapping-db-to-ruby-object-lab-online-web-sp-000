@@ -6,7 +6,7 @@ class Student
     student = Student.new
     student.id = row[0]
     student.name = row[1]
-    tudent.grade = row[2]
+    student.grade = row[2]
     student
   end
 
